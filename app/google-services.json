@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "260786374693",
+    "firebase_url": "https://nworksdemos2.firebaseio.com",
+    "project_id": "nworksdemos2",
+    "storage_bucket": "nworksdemos2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260786374693:android:07abd921e0ee7252",
+        "android_client_info": {
+          "package_name": "com.shra1.appx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260786374693-v7ji2p1ai8ovhqm3f9jonl0kc98tvqfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC557z9OZrf7KhaPXHPNIIwFj2aF1jHE7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260786374693:android:a264d6a7f348f963",
+        "android_client_info": {
+          "package_name": "com.shra1.fcmnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260786374693-v7ji2p1ai8ovhqm3f9jonl0kc98tvqfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC557z9OZrf7KhaPXHPNIIwFj2aF1jHE7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
